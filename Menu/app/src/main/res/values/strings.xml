@@ -1,0 +1,20 @@
+<resources>
+    <string name="app">Projeto List View</string>
+    <string-array name="contatos">
+        <item>Andre 16 123654654</item>
+        <item>Danilo 16 123654654</item>
+        <item>Eduardo 16 123654654</item>
+        <item>Estevao 16 123654654</item>
+        <item>Luis 16 123654654</item>
+        <item>Luiz 16 123654654</item>
+        <item>Mariana 16 123654654</item>
+    </string-array>
+    <string name="app_name">Menu</string>
+    <string name="principal">Menu</string>
+    <string name="mapa">Mapa</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="loja">Loja</string>
+    <string name="lista">Lista de Contatos</string>
+    <string name="sair">Sair</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

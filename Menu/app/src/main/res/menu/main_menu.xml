@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mapa"
+        android:title="@string/mapa"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/calculadora"
+        android:title="@string/calculadora"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/loja"
+        android:title="@string/loja"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/lista"
+        android:title="@string/lista" />
+    <item
+        android:id="@+id/sair"
+        android:title="@string/sair"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btPagar" type="id" />
+    <item name="chkMarmitex" type="id" />
+    <item name="chkSelfService" type="id" />
+    <item name="chkBebida" type="id" />
+    <item name="chkSobremesa" type="id" />
+    <item name="rgopcoes" type="id" />
+    <item name="rbAvista" type="id" />
+    <item name="rbCartao" type="id" />
+    <item name="rbCartaoDebito" type="id" />
+</resources>
